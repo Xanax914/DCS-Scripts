@@ -12,7 +12,8 @@ local SAMRangeLookupTable = { -- Ranges at which SAM sites are considered close 
     ["Patriot STR"] = 100000,
     ["Roland ADS"] = 10000,
     ["HQ-7_STR_SP"] = 12500,
-	["RPC_5N62V"] = 120000,
+    ["RPC_5N62V"] = 120000,
+    ["SA-17 Buk M1-2 LN 9A310M1-2"] = 50000,
 }
 local IADSEnable = true -- If true IADS script is active
 local IADSRadioDetection = false -- 1 = radio detection of ARM launch on, 0 = radio detection of ARM launch off
